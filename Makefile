@@ -40,4 +40,3 @@ devinstall:
 test: devbuild
 	venv/bin/pytest tests/test_vm.py -v
 
-
